@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!---Login form-->
+    <form action="method=">
+    <label for="UserName">UserName</label>
+    <input type="UserName"><br>
+    <label for="Password">Password</label>
+    <input type="Password"><br>
+    <button type="submit">Submit</button>
+</form>
+    
+</body>
+</html>
+--------------------------------------------------------
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!---Date picker-->
+    <form action="method=">
+        <label for="Email">Email</label>
+        <input type="Email"> <br>
+        <label for="Password">password</label>
+        <input type="password"> <br>
+        <label for="Date">Date</label>
+        <input type="Date"> <br>
+    </form>
+    
+    
+</body>
+</html>
+--------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>New Table :</h1>
+    
+<table border="1"><br>
+<tr>
+    <td><b>RollNo</b></td>
+    <td><b>Name</b></td>
+    <td><b>Marks</b></td>
+</tr> 
+<tr>
+    <td>101</td>
+    <td>Ram</td>
+    <td>56<td>
+</tr> 
+<tr>
+    <td>102</td>
+    <td>Sai</td>
+    <td>78</td>
+</tr> 
+<tr>
+    <td>103</td>
+    <td>Raju</td>
+    <td>62</td>
+</tr> 
+<tr>
+    <td>104</td>
+    <td>vamsi</td>
+    <td>52</td>
+</tr> 
+
+</table> 
+
+    
+
+    
+</body>
+</html>
+--------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video</title>
+</head>
+<body>
+    <h1>HoneySingh</h1>
+    <video src="singh1.mp4" controls loop autoplay height="700" width="600"></video>
+</body>
+</html>
+--------------------------------------------------------<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable images</title>
+</head>
+<body>
+    
+    <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtwMyQQ7zt1VKTM7eAEc0-fCCKFPzRYWIzw&s" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwtwMyQQ7zt1VKTM7eAEc0-fCCKFPzRYWIzw&s" alt="kiran" height="500" width="400"></a>
+   <a  href="https://www.deccanchronicle.com/h-upload/2024/10/19/1853798-untitleddesign-2024-10-19t115533817.webp" target="_blank"> <img src="https://www.deccanchronicle.com/h-upload/2024/10/19/1853798-untitleddesign-2024-10-19t115533817.webp" alt="kiran" height="500" width="400"></a>
+   <a  href="https://assets.thehansindia.com/h-upload/2023/04/04/1345129-kiran-abbivaram.web" target="_blank"> <img src="https://assets.thehansindia.com/h-upload/2023/04/04/1345129-kiran-abbivaram.webp" alt="kiran" height="500" width="400"></a>
+
+
+</body>
+</html>
+--------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DropDown List</title>
+</head>
+<body>
+    <label for="color">choose color</label>
+    <select name="color" id="color">
+    <option value="" disabled selected>Select One</option>
+    <option value="Red">Red</option>
+    <option value="Green">Green</option>
+    <option value="Black">Black</option>
+</select>
+    
+
+
+
+    
+</body>
+</html>
+--------------------------------------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Table of Contents</h1>
+    <ol>
+        <li><a href="#section1">Introduction</a></li>
+        <li><a href="#section2">Getting Started</a></li>
+        <li><a href="#section3">Features</a></li>
+        <li><a href="#section4">Examples</a></li>
+        <li><a href="#section5">Conclusion</a></li>
+    </ol>
+
+    <h2 id="section1">Introduction</h2>
+    <p> This is Introduction</p> 
+    <h3 id="section2">Getting Started</h2>
+    <p> This is Getting Started</p>
+    <h4 id="section3">Features</h2>
+    <p> This is Features</p>
+    <h5 id="section4">Examples</h2>
+    <p> This is Examples</p>
+    <h6 id="section5">Example</h2>
+    <p> This is Conclusion</p>
+    
+    
+
+</body>
+</html>
